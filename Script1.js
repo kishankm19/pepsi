@@ -1,5 +1,5 @@
 function validate(){
-  if(password == "robots")
+  if(password == "/robots")
   {
     alert("HAHHAAAA.Tricked you!!");
   else
