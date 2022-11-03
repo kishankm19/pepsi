@@ -1,3 +1,9 @@
 function validate(){
-alert ("HAHHAA ,Tricked you!!");
-}
+  if(password == "robots")
+  {
+    alert("HAHHAAAA.Tricked you!!");
+  else
+  {
+    alert("Oh hello genius,type what is told!");
+  }
+  }
