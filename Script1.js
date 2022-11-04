@@ -1,6 +1,6 @@
 function validate(){
 var password = document.getElementById("password").value;
-if(password == "/robots")
+if(password == "/flag")
    {
    alert("HAHHAAAA.Tricked you!!");
    }
